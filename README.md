@@ -7,32 +7,11 @@ I'm a 21-year-old technology enthusiast, about to complete my degree in Computer
 ### SEAT, S.A.
 **Web Applications Developer**  
 _Martorell, Catalonia, Spain · Hybrid_  
-_Dec 2023 - Present_ (7 months)  
+_2023 - Present_ 
 
-- Design and development of web applications in collaboration with a multidisciplinary team.
+- Design and development of web applications (with Angular and NodeJS) in collaboration with a multidisciplinary team.
 - Troubleshooting and technical documentation to ensure application quality.
 - Researching new technologies to implement innovative solutions.
-
-**Web Applications Developer (Internship)**  
-_Sept 2023 - Dec 2023_ (4 months)  
-
-- Collaborated in the design and development of web applications.
-- Researched and resolved technical problems.
-
-### Auchan Retail (Alcampo)
-**Cashier**  
-_Sant Quirze del Vallès, Catalonia, Spain · On-site_  
-_Jun 2021 - Sept 2023_ (2 years 4 months)  
-
-- Customer service.
-- Handled transactions and cash operations.
-
-### Consum Cooperativa Valenciana
-**Cashier**  
-_Sabadell, Catalonia, Spain · On-site_  
-_Nov 2020 - Mar 2021_ (5 months)  
-
-- Customer service in the retail sector.
 
 ## 🎓 Education
 
