@@ -9,9 +9,10 @@ I'm a 21-year-old technology enthusiast, about to complete my degree in Computer
 _Martorell, Catalonia, Spain · Hybrid_  
 _2023 - Present_ 
 
-- Design and development of web applications (with Angular and NodeJS) in collaboration with a multidisciplinary team.
-- Troubleshooting and technical documentation to ensure application quality.
-- Researching new technologies to implement innovative solutions.
+- Design and development of web applications in collaboration with multidisciplinary teams, using Angular and Node.
+- Troubleshooting and technical documentation to ensure application quality, applying Agile methodologies (Scrum) to develop real products in a team environment.
+- Researching new technologies to implement innovative solutions in real-world projects.
+- Design and development of a tool utilizing C# for GUI and Bash scripts for interacting with screen mockups of the infotainment system via SCP and SSH protocols.
 
 ## 🎓 Education
 
@@ -19,14 +20,22 @@ _2023 - Present_
 **Bachelor's Degree in Computer Engineering**  
 _2020 - 2024_
 
-- Web Components, Technical Requirements, and more.
+- Technical Requirements
+- Project Management
+- Networking
+- Web Components
+- Software Development Methodologies
+- Operating Systems
+- ...
 
 ## 🛠️ Skills
 
 - **Programming Languages:** JavaScript, TypeScript, Python, C#, C++, Bash
 - **Frameworks:** Angular, Node.js
-- **Tools:** JIRA, Git, VS Code
+- **Tools:** JIRA, Git, VS Code, FIGMA
 - **Others:** Interface Design, Troubleshooting, Technical Documentation
+- **Project Management:** Agile Methodologies, Scrum
+- **Networking:** Knowledge of network protocols, configuration, and troubleshooting
 
 ## 🌱 Always Learning
 
