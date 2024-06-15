@@ -45,4 +45,4 @@ I am in a continuous search for new knowledge and skills in the field of technol
 
 - **LinkedIn:** [Raúl on LinkedIn](https://www.linkedin.com/in/quirosm-raul/)
 
-Thank you for visiting my profile! I am always open to new opportunities and collaborations. 😊
+### Thank you for visiting my profile! I am always open to new opportunities and collaborations. 😊
